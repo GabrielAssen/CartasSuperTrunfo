@@ -11,6 +11,7 @@ int main() {
 
   // Área para exibição dos dados da cidade
   printf("Desafio Cartas Super Trunfo do Gabriel.\n");
+  printf("Novo commit\n");
 
 return 0;
 } 
